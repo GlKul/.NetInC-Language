@@ -8,7 +8,7 @@ namespace NetProject
 {
     class ProgrammLab1_5
     {
-        static async Task Main(string[] args)
+        static async Task MainLab1_5(string[] args)
         {
             List<Grade> grades = new List<Grade>
         {
