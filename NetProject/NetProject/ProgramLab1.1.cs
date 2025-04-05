@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 class ProgrammLab01
 {
-    static void Main()
+    static void MainLab01()
     {
         Console.WriteLine("Основной поток начал работу!");
 
