@@ -15,7 +15,7 @@ namespace NetProject
         private const int MaxIterations = 10; // Максимальное количество итераций
         private static int iterationCount = 0; // Счетчик итераций
 
-        static void Main()
+        static void MainLab1_3()
         {
             Console.WriteLine("Основной поток начал работу");
 
