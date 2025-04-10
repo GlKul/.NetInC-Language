@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35825.156 d17.13
+VisualStudioVersion = 17.13.35825.156
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetProject", "NetProject\NetProject.csproj", "{DC59E293-8004-4C32-8C1C-252E946AFCFB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiThread01", "C:\Users\Gl\Downloads\ClientServer01-master\MultiThread01\MultiThread01.csproj", "{8EEA3C89-664C-25DA-7821-B319A057D643}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetProject2", "NetProject2\NetProject2.csproj", "{B72E3197-6E11-4918-B6CD-CAF7107A6804}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8EEA3C89-664C-25DA-7821-B319A057D643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EEA3C89-664C-25DA-7821-B319A057D643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EEA3C89-664C-25DA-7821-B319A057D643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B72E3197-6E11-4918-B6CD-CAF7107A6804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B72E3197-6E11-4918-B6CD-CAF7107A6804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B72E3197-6E11-4918-B6CD-CAF7107A6804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B72E3197-6E11-4918-B6CD-CAF7107A6804}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
